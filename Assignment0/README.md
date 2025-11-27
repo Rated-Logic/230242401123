@@ -5,6 +5,8 @@
 
 # QN 2. Differences between data wragling , scaning and filtering in data minining
 # i. Data wrangling also know as data pre processing it is the process of cleaning, transforming and preparing raw data into a usable format for minning
-## it involves the following activities handling , missing data, removing duplicates, correcting inconsistencies , normalization / standardization , converting data types 
+## it involves the following activities handling , missing data, removing duplicates, correcting inconsistencies , normalization / standardization , converting data types
+# WHILE 
 # ii. Scanning this is the process of examining , traversing the data to understand its structure , and collecting the metadata. its main purpose is to understand the dataset before applying algorithms
+# WHILE
 # iii. Filtering is the process of excluding specific records or attributes from a given dataset based on its a certain creteria 
